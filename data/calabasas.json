@@ -1,0 +1,2136 @@
+{
+    "asin": null,
+    "disambiguation": "explicit",
+    "media": [
+        {
+            "format": "Digital Media",
+            "format-id": "907a28d9-b3b2-3ef6-89a8-7b18d91d4794",
+            "discs": [],
+            "tracks": [
+                {
+                    "id": "94fbf656-ffc9-4b8c-994d-c1c3bcc396e8",
+                    "position": 1,
+                    "number": "1",
+                    "title": "Dreams Money Can Buy",
+                    "artist-credit": [
+                        {
+                            "artist": {
+                                "aliases": [
+                                    {
+                                        "ended": false,
+                                        "end": null,
+                                        "type": "Legal name",
+                                        "locale": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "primary": null,
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "ended": false
+                                    },
+                                    {
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": "ja_JP",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "sort-name": "Drake",
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "begin": null,
+                                        "primary": true
+                                    }
+                                ],
+                                "type": "Person",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper",
+                                "name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "sort-name": "Drake"
+                            },
+                            "name": "Drake",
+                            "joinphrase": ""
+                        }
+                    ],
+                    "length": 253803,
+                    "recording": {
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "joinphrase": "",
+                                "name": "Drake",
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "disambiguation": "Canadian rapper",
+                                    "name": "Drake",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake"
+                                }
+                            }
+                        ],
+                        "length": 253803,
+                        "disambiguation": "explicit",
+                        "first-release-date": "2011",
+                        "title": "Dreams Money Can Buy",
+                        "video": false,
+                        "id": "a38ae4e4-55cd-47e9-87ad-060f57830036"
+                    }
+                },
+                {
+                    "recording": {
+                        "disambiguation": "explicit",
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "artist": {
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "sort-name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                                },
+                                "name": "Drake",
+                                "joinphrase": ""
+                            }
+                        ],
+                        "length": 240956,
+                        "id": "8ed55739-b0b0-4964-9065-a90d846563e9",
+                        "first-release-date": "2013-09-19",
+                        "title": "The Motion",
+                        "video": false
+                    },
+                    "artist-credit": [
+                        {
+                            "name": "Drake",
+                            "joinphrase": "",
+                            "artist": {
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "disambiguation": "Canadian rapper",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "aliases": [
+                                    {
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "C. Papi",
+                                        "sort-name": "C. Papi",
+                                        "begin": null
+                                    },
+                                    {
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null
+                                    },
+                                    {
+                                        "primary": true,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": "ja_JP",
+                                        "ended": false
+                                    }
+                                ],
+                                "type": "Person"
+                            }
+                        }
+                    ],
+                    "length": 240957,
+                    "title": "The Motion",
+                    "number": "2",
+                    "id": "5b7447c7-ea4e-4bcd-80b3-aeaf0f798a2d",
+                    "position": 2
+                },
+                {
+                    "recording": {
+                        "length": 235566,
+                        "artist-credit": [
+                            {
+                                "name": "Drake",
+                                "joinphrase": "",
+                                "artist": {
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake",
+                                    "name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                                }
+                            }
+                        ],
+                        "aliases": [],
+                        "disambiguation": "explicit",
+                        "first-release-date": "2014-10-25",
+                        "video": false,
+                        "title": "How Bout Now",
+                        "id": "7c87565f-9fee-4b46-b874-291c9429749f"
+                    },
+                    "length": 235566,
+                    "artist-credit": [
+                        {
+                            "name": "Drake",
+                            "joinphrase": "",
+                            "artist": {
+                                "disambiguation": "Canadian rapper",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "aliases": [
+                                    {
+                                        "primary": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "end": null,
+                                        "type": "Legal name",
+                                        "locale": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "ended": false
+                                    },
+                                    {
+                                        "name": "C. Papi",
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": null
+                                    },
+                                    {
+                                        "begin": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null
+                                    },
+                                    {
+                                        "primary": true,
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": "ja_JP",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "ended": false
+                                    }
+                                ],
+                                "type": "Person",
+                                "name": "Drake",
+                                "sort-name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                            }
+                        }
+                    ],
+                    "number": "3",
+                    "id": "44501ad2-688d-4a39-aa02-b93cd18e40c1",
+                    "position": 3,
+                    "title": "How Bout Now"
+                },
+                {
+                    "recording": {
+                        "disambiguation": "explicit",
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "joinphrase": "",
+                                "name": "Drake",
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "disambiguation": "Canadian rapper",
+                                    "name": "Drake",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake"
+                                }
+                            }
+                        ],
+                        "length": 281000,
+                        "id": "83f3c7cb-ec1f-4d4c-8300-e4918e528489",
+                        "first-release-date": "2011-06-21",
+                        "title": "Trust Issues",
+                        "video": false
+                    },
+                    "artist-credit": [
+                        {
+                            "joinphrase": "",
+                            "name": "Drake",
+                            "artist": {
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name"
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": null,
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "name": "C. Papi",
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "primary": null
+                                    },
+                                    {
+                                        "primary": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi",
+                                        "begin": null,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "begin": null,
+                                        "sort-name": "Drake",
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "primary": true,
+                                        "ended": false,
+                                        "locale": "ja_JP",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper"
+                            }
+                        }
+                    ],
+                    "length": 281519,
+                    "number": "4",
+                    "id": "e48c303a-2279-4e61-bd41-be25961695a0",
+                    "position": 4,
+                    "title": "Trust Issues"
+                },
+                {
+                    "id": "89b65430-7f88-41fe-a833-263f4cb0e1bc",
+                    "position": 5,
+                    "number": "5",
+                    "title": "Days in the East",
+                    "length": 353698,
+                    "artist-credit": [
+                        {
+                            "artist": {
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "disambiguation": "Canadian rapper",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "aliases": [
+                                    {
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name"
+                                    },
+                                    {
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": null,
+                                        "type": "Artist name",
+                                        "end": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": "ja_JP",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "sort-name": "Drake",
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "begin": null,
+                                        "primary": true
+                                    }
+                                ],
+                                "type": "Person"
+                            },
+                            "joinphrase": "",
+                            "name": "Drake"
+                        }
+                    ],
+                    "recording": {
+                        "length": 353000,
+                        "artist-credit": [
+                            {
+                                "joinphrase": "",
+                                "name": "Drake",
+                                "artist": {
+                                    "disambiguation": "Canadian rapper",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "sort-name": "Drake",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person"
+                                }
+                            }
+                        ],
+                        "aliases": [],
+                        "disambiguation": "explicit",
+                        "first-release-date": "2014-04-03",
+                        "video": false,
+                        "title": "Days in the East",
+                        "id": "6f6d9406-ca6f-4657-9f0c-5777caf4626f"
+                    }
+                },
+                {
+                    "title": "Draft Day",
+                    "position": 6,
+                    "id": "da93a972-2ee2-4014-9b84-64ce992f83cf",
+                    "number": "6",
+                    "length": 266325,
+                    "artist-credit": [
+                        {
+                            "joinphrase": "",
+                            "name": "Drake",
+                            "artist": {
+                                "name": "Drake",
+                                "sort-name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "name": "Aubrey Drake Graham",
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf"
+                                    },
+                                    {
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "begin": null
+                                    },
+                                    {
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "sort-name": "Champagne Papi",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null
+                                    },
+                                    {
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": "ja_JP",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "ended": false,
+                                        "primary": true,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "begin": null,
+                                        "sort-name": "Drake"
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper"
+                            }
+                        }
+                    ],
+                    "recording": {
+                        "disambiguation": "explicit",
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "artist": {
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "sort-name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person"
+                                },
+                                "joinphrase": "",
+                                "name": "Drake"
+                            }
+                        ],
+                        "length": 266325,
+                        "id": "e7e00605-44db-4800-a757-7b03a19b9933",
+                        "first-release-date": "2019-08-02",
+                        "title": "Draft Day",
+                        "video": false
+                    }
+                },
+                {
+                    "title": "4pm in Calabasas",
+                    "id": "2386c183-6744-4584-a43f-5b85dfdef877",
+                    "position": 7,
+                    "number": "7",
+                    "length": 240218,
+                    "artist-credit": [
+                        {
+                            "joinphrase": "",
+                            "name": "Drake",
+                            "artist": {
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "sort-name": "Graham, Aubrey Drake"
+                                    },
+                                    {
+                                        "name": "C. Papi",
+                                        "sort-name": "C. Papi",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Artist name"
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "sort-name": "Champagne Papi",
+                                        "begin": null,
+                                        "name": "Champagne Papi",
+                                        "primary": null
+                                    },
+                                    {
+                                        "primary": true,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": "ja_JP",
+                                        "ended": false
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper"
+                            }
+                        }
+                    ],
+                    "recording": {
+                        "disambiguation": "explicit",
+                        "length": 240000,
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "artist": {
+                                    "disambiguation": "Canadian rapper",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake",
+                                    "name": "Drake",
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                                },
+                                "joinphrase": "",
+                                "name": "Drake"
+                            }
+                        ],
+                        "id": "271c23e3-703e-4df4-b27b-9c2563d662f2",
+                        "first-release-date": "2016-06-04",
+                        "video": false,
+                        "title": "4pm in Calabasas"
+                    }
+                },
+                {
+                    "number": "8",
+                    "id": "f7f42e3d-4072-4353-8ad0-d43fe279c5ab",
+                    "position": 8,
+                    "title": "5 Am in Toronto",
+                    "recording": {
+                        "artist-credit": [
+                            {
+                                "joinphrase": "",
+                                "name": "Drake",
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "disambiguation": "Canadian rapper",
+                                    "sort-name": "Drake",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake"
+                                }
+                            }
+                        ],
+                        "aliases": [
+                            {
+                                "primary": null,
+                                "sort-name": "5AM in Toronto",
+                                "begin": null,
+                                "name": "5AM in Toronto",
+                                "type-id": null,
+                                "locale": null,
+                                "type": null,
+                                "end": null,
+                                "ended": false
+                            }
+                        ],
+                        "length": 205219,
+                        "disambiguation": "explicit",
+                        "title": "5 Am in Toronto",
+                        "video": false,
+                        "first-release-date": "2013-03-07",
+                        "id": "6b1156d4-4cdb-4ec6-8402-3c565790c48e"
+                    },
+                    "artist-credit": [
+                        {
+                            "joinphrase": "",
+                            "name": "Drake",
+                            "artist": {
+                                "sort-name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "name": "Drake",
+                                "aliases": [
+                                    {
+                                        "ended": false,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "primary": null
+                                    },
+                                    {
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi"
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi",
+                                        "begin": null
+                                    },
+                                    {
+                                        "locale": "ja_JP",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "ended": false,
+                                        "primary": true,
+                                        "sort-name": "Drake",
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "begin": null
+                                    }
+                                ],
+                                "type": "Person",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper"
+                            }
+                        }
+                    ],
+                    "length": 205264
+                },
+                {
+                    "title": "I Get Lonely",
+                    "number": "9",
+                    "id": "7c5665b3-6ab0-488b-8410-2d325365124a",
+                    "position": 9,
+                    "recording": {
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "name": "Drake",
+                                "joinphrase": "",
+                                "artist": {
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "sort-name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person"
+                                }
+                            }
+                        ],
+                        "length": 253561,
+                        "disambiguation": "",
+                        "title": "I Get Lonely",
+                        "video": false,
+                        "first-release-date": "2019-08-02",
+                        "id": "1cccf9e4-70f1-4787-95a4-03486c282947"
+                    },
+                    "length": 253562,
+                    "artist-credit": [
+                        {
+                            "name": "Drake",
+                            "joinphrase": "",
+                            "artist": {
+                                "name": "Drake",
+                                "sort-name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "aliases": [
+                                    {
+                                        "primary": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "ended": false
+                                    },
+                                    {
+                                        "primary": null,
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "locale": null,
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "ended": false
+                                    },
+                                    {
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi",
+                                        "begin": null
+                                    },
+                                    {
+                                        "primary": true,
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": "ja_JP",
+                                        "ended": false
+                                    }
+                                ],
+                                "type": "Person",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "My Side",
+                    "id": "f0292f03-62d5-4163-bb45-ca86b6734942",
+                    "position": 10,
+                    "number": "10",
+                    "artist-credit": [
+                        {
+                            "joinphrase": "",
+                            "name": "Drake",
+                            "artist": {
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "name": "Drake",
+                                "sort-name": "Drake",
+                                "disambiguation": "Canadian rapper",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "begin": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name"
+                                    },
+                                    {
+                                        "primary": null,
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "begin": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "ended": false
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi"
+                                    },
+                                    {
+                                        "primary": true,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": "ja_JP",
+                                        "ended": false
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "length": 294651,
+                    "recording": {
+                        "id": "809f4318-c05c-4e44-ad41-c8ac556975bb",
+                        "first-release-date": "2019-08-02",
+                        "video": false,
+                        "title": "My Side",
+                        "disambiguation": "explicit",
+                        "length": 294650,
+                        "artist-credit": [
+                            {
+                                "name": "Drake",
+                                "joinphrase": "",
+                                "artist": {
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "sort-name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person"
+                                }
+                            }
+                        ],
+                        "aliases": []
+                    }
+                },
+                {
+                    "position": 11,
+                    "id": "bf8577c5-1bf9-41c3-8122-3e20a27f4155",
+                    "number": "11",
+                    "title": "Jodeci Freestyle",
+                    "artist-credit": [
+                        {
+                            "artist": {
+                                "disambiguation": "Canadian rapper",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "aliases": [
+                                    {
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "C. Papi",
+                                        "sort-name": "C. Papi"
+                                    },
+                                    {
+                                        "begin": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi",
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "primary": true,
+                                        "ended": false,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": "ja_JP",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                                    }
+                                ],
+                                "type": "Person",
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                            },
+                            "name": "Drake",
+                            "joinphrase": " feat. "
+                        },
+                        {
+                            "joinphrase": "",
+                            "name": "J. Cole",
+                            "artist": {
+                                "disambiguation": "US rapper & producer",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "J Cole",
+                                        "sort-name": "J Cole"
+                                    },
+                                    {
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "Jermaine Cole",
+                                        "begin": null,
+                                        "sort-name": "Cole, Jermaine"
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "begin": null,
+                                        "name": "Jermaine L. Cole",
+                                        "sort-name": "Cole, Jermaine L.",
+                                        "primary": null
+                                    },
+                                    {
+                                        "primary": null,
+                                        "name": "Jermaine Lamarr Cole",
+                                        "sort-name": "Cole, Jermaine Lamarr",
+                                        "begin": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name",
+                                        "ended": false
+                                    },
+                                    {
+                                        "primary": null,
+                                        "sort-name": "j.cole",
+                                        "name": "j.cole",
+                                        "begin": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "sort-name": "Cole, J.",
+                                "id": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                "name": "J. Cole"
+                            }
+                        }
+                    ],
+                    "length": 254022,
+                    "recording": {
+                        "title": "Jodeci Freestyle",
+                        "video": false,
+                        "first-release-date": "2019-08-02",
+                        "id": "e1f32fab-0aa0-489b-b48b-a42f66be4319",
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake",
+                                    "name": "Drake",
+                                    "disambiguation": "Canadian rapper"
+                                },
+                                "name": "Drake",
+                                "joinphrase": " feat. "
+                            },
+                            {
+                                "joinphrase": "",
+                                "name": "J. Cole",
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "id": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+                                    "sort-name": "Cole, J.",
+                                    "name": "J. Cole",
+                                    "disambiguation": "US rapper & producer"
+                                }
+                            }
+                        ],
+                        "length": 254022,
+                        "disambiguation": "explicit"
+                    }
+                },
+                {
+                    "artist-credit": [
+                        {
+                            "joinphrase": "",
+                            "name": "Drake",
+                            "artist": {
+                                "disambiguation": "Canadian rapper",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "aliases": [
+                                    {
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "end": null,
+                                        "type": "Legal name",
+                                        "locale": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi",
+                                        "begin": null
+                                    },
+                                    {
+                                        "primary": true,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "begin": null,
+                                        "sort-name": "Drake",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": "ja_JP",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "ended": false
+                                    }
+                                ],
+                                "type": "Person",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "name": "Drake",
+                                "sort-name": "Drake"
+                            }
+                        }
+                    ],
+                    "length": 283816,
+                    "recording": {
+                        "id": "e5db8cb7-d462-4877-9a8a-2fd9ed27947b",
+                        "first-release-date": "2011-09-11",
+                        "video": false,
+                        "title": "Club Paradise",
+                        "disambiguation": "explicit",
+                        "length": 283816,
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "name": "Drake",
+                                "joinphrase": "",
+                                "artist": {
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person",
+                                    "disambiguation": "Canadian rapper",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "sort-name": "Drake"
+                                }
+                            }
+                        ]
+                    },
+                    "id": "bb2652da-1197-4cbf-ae8e-7c75b94c4806",
+                    "position": 12,
+                    "number": "12",
+                    "title": "Club Paradise"
+                },
+                {
+                    "recording": {
+                        "first-release-date": "2011-09",
+                        "title": "Free Spirit",
+                        "video": false,
+                        "id": "41a5f9eb-ff54-4bd6-b044-108bbe6e0bcd",
+                        "artist-credit": [
+                            {
+                                "joinphrase": " feat. ",
+                                "name": "Drake",
+                                "artist": {
+                                    "name": "Drake",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                                }
+                            },
+                            {
+                                "joinphrase": "",
+                                "name": "Rick Ross",
+                                "artist": {
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person",
+                                    "name": "Rick Ross",
+                                    "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+                                    "sort-name": "Ross, Rick",
+                                    "disambiguation": "US rapper"
+                                }
+                            }
+                        ],
+                        "aliases": [],
+                        "length": 252884,
+                        "disambiguation": "explicit"
+                    },
+                    "length": 252884,
+                    "artist-credit": [
+                        {
+                            "name": "Drake",
+                            "joinphrase": " feat. ",
+                            "artist": {
+                                "name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "sort-name": "Drake",
+                                "disambiguation": "Canadian rapper",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "begin": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "name": "Aubrey Drake Graham",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name"
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": null,
+                                        "begin": null,
+                                        "name": "C. Papi",
+                                        "sort-name": "C. Papi",
+                                        "primary": null
+                                    },
+                                    {
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "Champagne Papi",
+                                        "sort-name": "Champagne Papi",
+                                        "begin": null
+                                    },
+                                    {
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "primary": true,
+                                        "ended": false,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": "ja_JP",
+                                        "end": null,
+                                        "type": "Artist name"
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                            }
+                        },
+                        {
+                            "artist": {
+                                "disambiguation": "US rapper",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "primary": null,
+                                        "name": "@mastermind",
+                                        "sort-name": "@mastermind",
+                                        "begin": null,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "sort-name": "Ross, R.",
+                                        "begin": null,
+                                        "name": "R. Ross",
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "name": "Ric Ross",
+                                        "sort-name": "Ross, Ric",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "begin": null,
+                                        "sort-name": "Ro$$, Rick",
+                                        "name": "Rick Ro$$",
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "RickRo$$",
+                                        "sort-name": "RickRo$$"
+                                    },
+                                    {
+                                        "begin": null,
+                                        "name": "RickRoss",
+                                        "sort-name": "RickRoss",
+                                        "primary": null,
+                                        "ended": false,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "primary": null,
+                                        "begin": null,
+                                        "name": "Ricky Rozay",
+                                        "sort-name": "Rozay, Ricky",
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "begin": null,
+                                        "sort-name": "Ross, Robert",
+                                        "name": "Robert Ross",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "name": "Robert Williams",
+                                        "sort-name": "Williams, Robert",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "type-id": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "Roberts",
+                                        "begin": null,
+                                        "sort-name": "Roberts"
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "name": "Rock Ross",
+                                        "sort-name": "Ross, Rock",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "name": "Ross",
+                                        "begin": null,
+                                        "sort-name": "Ross",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": null,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "The Boss Rick Ro$$",
+                                        "sort-name": "Boss Rick Ro$$, The",
+                                        "begin": null
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "The Boss Rick Ross",
+                                        "sort-name": "Boss Rick Ross, The",
+                                        "begin": null
+                                    },
+                                    {
+                                        "name": "The Boss Ricky Rozay",
+                                        "begin": null,
+                                        "sort-name": "Boss Ricky Rozay, The",
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "name": "W. Leonard Roberts II",
+                                        "sort-name": "Roberts, W. Leonard II",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "name": "W. Roberts",
+                                        "begin": null,
+                                        "sort-name": "Roberts, W."
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "name": "W. Roberts II",
+                                        "begin": null,
+                                        "sort-name": "Roberts W. II",
+                                        "primary": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "sort-name": "W.Roberts",
+                                        "name": "W.Roberts",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "sort-name": "Roberts, William L.",
+                                        "name": "William L. Roberts",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "sort-name": "Roberts, William Leonard",
+                                        "name": "William Leonard Roberts",
+                                        "begin": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name",
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "sort-name": "Roberts, William Leonard II",
+                                        "name": "William Leonard Roberts II",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "name": "William Roberts II",
+                                        "sort-name": "Roberts, William II",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "begin": null,
+                                        "sort-name": "Roberts, William III",
+                                        "name": "William Roberts III",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null,
+                                        "begin": null,
+                                        "name": "Williams Roberts",
+                                        "sort-name": "Roberts, Williams",
+                                        "primary": null
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+                                "name": "Rick Ross",
+                                "sort-name": "Ross, Rick"
+                            },
+                            "name": "Rick Ross",
+                            "joinphrase": ""
+                        }
+                    ],
+                    "number": "13",
+                    "id": "e090a38f-a49d-4a15-837d-baadeab53475",
+                    "position": 13,
+                    "title": "Free Spirit"
+                },
+                {
+                    "title": "Heat of the Moment",
+                    "id": "43d3b252-f304-46f4-8da1-5f06810ed6dd",
+                    "position": 14,
+                    "number": "14",
+                    "artist-credit": [
+                        {
+                            "artist": {
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "name": "Drake",
+                                "sort-name": "Drake",
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "aliases": [
+                                    {
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Legal name"
+                                    },
+                                    {
+                                        "name": "C. Papi",
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "primary": null,
+                                        "ended": false,
+                                        "locale": null,
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                                    },
+                                    {
+                                        "primary": null,
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "primary": true,
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": "ja_JP",
+                                        "ended": false
+                                    }
+                                ],
+                                "type": "Person",
+                                "disambiguation": "Canadian rapper"
+                            },
+                            "joinphrase": "",
+                            "name": "Drake"
+                        }
+                    ],
+                    "length": 343455,
+                    "recording": {
+                        "artist-credit": [
+                            {
+                                "artist": {
+                                    "sort-name": "Drake",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "disambiguation": "Canadian rapper",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "type": "Person"
+                                },
+                                "name": "Drake",
+                                "joinphrase": ""
+                            }
+                        ],
+                        "aliases": [],
+                        "length": 343455,
+                        "disambiguation": "explicit",
+                        "first-release-date": "2014-10-25",
+                        "title": "Heat of the Moment",
+                        "video": false,
+                        "id": "3dabcd55-7daa-49f1-911d-1b01d6b75ce1"
+                    }
+                },
+                {
+                    "position": 15,
+                    "id": "89b9df2e-17ec-4cae-9825-4ae04ff6d49b",
+                    "number": "15",
+                    "title": "Girls Love Beyonc\u00e9",
+                    "artist-credit": [
+                        {
+                            "artist": {
+                                "disambiguation": "Canadian rapper",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "begin": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "primary": null,
+                                        "ended": false,
+                                        "end": null,
+                                        "type": "Legal name",
+                                        "locale": null,
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf"
+                                    },
+                                    {
+                                        "primary": null,
+                                        "name": "C. Papi",
+                                        "sort-name": "C. Papi",
+                                        "begin": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "ended": false
+                                    },
+                                    {
+                                        "type-id": null,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "begin": null,
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi"
+                                    },
+                                    {
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": "ja_JP",
+                                        "ended": false,
+                                        "primary": true,
+                                        "sort-name": "Drake",
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "begin": null
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                            },
+                            "joinphrase": " feat. ",
+                            "name": "Drake"
+                        },
+                        {
+                            "name": "James Fauntleroy",
+                            "joinphrase": "",
+                            "artist": {
+                                "sort-name": "Fauntleroy, James",
+                                "name": "James Fauntleroy",
+                                "id": "4e481ad9-aa5d-4a1a-b2fc-444c0ad48b7e",
+                                "disambiguation": "",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "begin": null,
+                                        "name": "James Edward Fauntleroy",
+                                        "sort-name": "Fauntleroy, James Edward",
+                                        "primary": null,
+                                        "ended": false,
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "type-id": null,
+                                        "name": "James Edward Fauntleroy II",
+                                        "sort-name": "Fauntleroy, James Edward II",
+                                        "begin": null,
+                                        "primary": null
+                                    },
+                                    {
+                                        "locale": null,
+                                        "type": null,
+                                        "end": null,
+                                        "type-id": null,
+                                        "ended": false,
+                                        "primary": null,
+                                        "sort-name": "Fauntleroy, James II",
+                                        "begin": null,
+                                        "name": "James Fauntleroy II"
+                                    },
+                                    {
+                                        "primary": null,
+                                        "begin": null,
+                                        "sort-name": "SWLY",
+                                        "name": "SWLY",
+                                        "type": null,
+                                        "end": null,
+                                        "locale": null,
+                                        "type-id": null,
+                                        "ended": false
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                            }
+                        }
+                    ],
+                    "length": 225012,
+                    "recording": {
+                        "title": "Girls Love Beyonc\u00e9",
+                        "video": false,
+                        "first-release-date": "2013-04-16",
+                        "id": "e5b9934f-ef82-40e4-bd79-e0620d91b587",
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "sort-name": "Drake",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "name": "Drake",
+                                    "disambiguation": "Canadian rapper"
+                                },
+                                "name": "Drake",
+                                "joinphrase": " feat. "
+                            },
+                            {
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "disambiguation": "",
+                                    "sort-name": "Fauntleroy, James",
+                                    "id": "4e481ad9-aa5d-4a1a-b2fc-444c0ad48b7e",
+                                    "name": "James Fauntleroy"
+                                },
+                                "joinphrase": "",
+                                "name": "James Fauntleroy"
+                            }
+                        ],
+                        "length": 225011,
+                        "disambiguation": "explicit"
+                    }
+                },
+                {
+                    "title": "Paris Morton Music",
+                    "id": "73cd95fe-5b54-4854-bbbc-f8845c3b6a1b",
+                    "position": 16,
+                    "number": "16",
+                    "length": 251240,
+                    "artist-credit": [
+                        {
+                            "name": "Drake",
+                            "joinphrase": "",
+                            "artist": {
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "primary": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "begin": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "begin": null,
+                                        "sort-name": "C. Papi",
+                                        "name": "C. Papi",
+                                        "primary": null,
+                                        "ended": false,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": null,
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+                                    },
+                                    {
+                                        "sort-name": "Champagne Papi",
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "primary": null,
+                                        "ended": false,
+                                        "end": null,
+                                        "type": null,
+                                        "locale": null,
+                                        "type-id": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "end": null,
+                                        "type": "Artist name",
+                                        "locale": "ja_JP",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "begin": null,
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "sort-name": "Drake",
+                                        "primary": true
+                                    }
+                                ],
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "disambiguation": "Canadian rapper",
+                                "sort-name": "Drake",
+                                "name": "Drake",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+                            }
+                        }
+                    ],
+                    "recording": {
+                        "id": "c5dbe1e8-537c-481d-ab7e-b75ae220dc61",
+                        "video": false,
+                        "title": "Paris Morton Music",
+                        "first-release-date": "2019-08-02",
+                        "disambiguation": "explicit",
+                        "length": 251239,
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "joinphrase": "",
+                                "name": "Drake",
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "disambiguation": "Canadian rapper",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake",
+                                    "name": "Drake"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "length": 189289,
+                    "artist-credit": [
+                        {
+                            "name": "Drake",
+                            "joinphrase": "",
+                            "artist": {
+                                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                "type": "Person",
+                                "aliases": [
+                                    {
+                                        "primary": null,
+                                        "sort-name": "Graham, Aubrey Drake",
+                                        "begin": null,
+                                        "name": "Aubrey Drake Graham",
+                                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                                        "locale": null,
+                                        "type": "Legal name",
+                                        "end": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "primary": null,
+                                        "sort-name": "C. Papi",
+                                        "begin": null,
+                                        "name": "C. Papi",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "locale": null,
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "ended": false
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type-id": null,
+                                        "locale": null,
+                                        "end": null,
+                                        "type": null,
+                                        "name": "Champagne Papi",
+                                        "begin": null,
+                                        "sort-name": "Champagne Papi",
+                                        "primary": null
+                                    },
+                                    {
+                                        "ended": false,
+                                        "type": "Artist name",
+                                        "end": null,
+                                        "locale": "ja_JP",
+                                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                        "name": "\u30c9\u30ec\u30a4\u30af",
+                                        "sort-name": "Drake",
+                                        "begin": null,
+                                        "primary": true
+                                    }
+                                ],
+                                "disambiguation": "Canadian rapper",
+                                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                "name": "Drake",
+                                "sort-name": "Drake"
+                            }
+                        }
+                    ],
+                    "recording": {
+                        "first-release-date": "2019-08-02",
+                        "video": false,
+                        "title": "Can I",
+                        "id": "839fec08-1651-4474-b80a-afee86c2412a",
+                        "length": 189289,
+                        "aliases": [],
+                        "artist-credit": [
+                            {
+                                "name": "Drake",
+                                "joinphrase": "",
+                                "artist": {
+                                    "type": "Person",
+                                    "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                                    "disambiguation": "Canadian rapper",
+                                    "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                                    "sort-name": "Drake",
+                                    "name": "Drake"
+                                }
+                            }
+                        ],
+                        "disambiguation": "explicit"
+                    },
+                    "title": "Can I",
+                    "position": 17,
+                    "id": "c0c00a61-2c07-4320-b46d-22214de66ca8",
+                    "number": "17"
+                }
+            ],
+            "position": 1,
+            "track-offset": 0,
+            "track-count": 17,
+            "title": ""
+        }
+    ],
+    "aliases": [],
+    "country": "XW",
+    "label-info": [
+        {
+            "catalog-number": null,
+            "label": {
+                "label-code": null,
+                "disambiguation": "",
+                "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+                "type": "Original Production",
+                "aliases": [
+                    {
+                        "name": "OVO",
+                        "sort-name": "OVO",
+                        "begin": null,
+                        "primary": null,
+                        "ended": false,
+                        "end": null,
+                        "type": null,
+                        "locale": null,
+                        "type-id": null
+                    }
+                ],
+                "sort-name": "OVO Sound",
+                "name": "OVO Sound",
+                "id": "9ad5995c-ffad-4f45-b7fe-b5656da71d28"
+            }
+        }
+    ],
+    "status": "Official",
+    "title": "Care Package",
+    "barcode": "00602508182952",
+    "quality": "normal",
+    "text-representation": {
+        "script": "Latn",
+        "language": "eng"
+    },
+    "date": "2019-08-02",
+    "artist-credit": [
+        {
+            "name": "Drake",
+            "joinphrase": "",
+            "artist": {
+                "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+                "sort-name": "Drake",
+                "name": "Drake",
+                "disambiguation": "Canadian rapper",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "aliases": [
+                    {
+                        "sort-name": "Graham, Aubrey Drake",
+                        "name": "Aubrey Drake Graham",
+                        "begin": null,
+                        "primary": null,
+                        "ended": false,
+                        "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                        "locale": null,
+                        "type": "Legal name",
+                        "end": null
+                    },
+                    {
+                        "primary": null,
+                        "sort-name": "C. Papi",
+                        "name": "C. Papi",
+                        "begin": null,
+                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                        "type": "Artist name",
+                        "end": null,
+                        "locale": null,
+                        "ended": false
+                    },
+                    {
+                        "primary": null,
+                        "sort-name": "Champagne Papi",
+                        "begin": null,
+                        "name": "Champagne Papi",
+                        "type-id": null,
+                        "locale": null,
+                        "type": null,
+                        "end": null,
+                        "ended": false
+                    },
+                    {
+                        "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                        "end": null,
+                        "type": "Artist name",
+                        "locale": "ja_JP",
+                        "ended": false,
+                        "primary": true,
+                        "name": "\u30c9\u30ec\u30a4\u30af",
+                        "sort-name": "Drake",
+                        "begin": null
+                    }
+                ],
+                "type": "Person"
+            }
+        }
+    ],
+    "id": "d5c3ab50-8ff4-44f4-bf64-dff32e13a259",
+    "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+    "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+    "cover-art-archive": {
+        "darkened": false,
+        "count": 1,
+        "artwork": true,
+        "front": true,
+        "back": false
+    },
+    "release-events": [
+        {
+            "area": {
+                "type-id": null,
+                "type": null,
+                "sort-name": "[Worldwide]",
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                    "XW"
+                ],
+                "disambiguation": ""
+            },
+            "date": "2019-08-02"
+        }
+    ],
+    "packaging": "None"
+}

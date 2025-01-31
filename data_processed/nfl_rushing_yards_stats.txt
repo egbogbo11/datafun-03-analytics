@@ -1,0 +1,5 @@
+Yards Statistics:
+Minimum: -11.00
+Maximum: 100.00
+Mean: 4.44
+Standard Deviation: 6.66
