@@ -24,7 +24,7 @@ from utils_logger import logger
 # Declare Global Variables
 #####################################
 
-fetched_folder_name = "data"
+fetched_folder_name = "example_data"
 
 #####################################
 # Define Functions
@@ -90,9 +90,9 @@ def main():
     """
     Main function to demonstrate fetching JSON data.
     """
-    json_url = 'https://musicbrainz.org/ws/2/release/d5c3ab50-8ff4-44f4-bf64-dff32e13a259?inc=aliases%2Bartist-credits%2Blabels%2Bdiscids%2Brecordings&fmt=json'
+    json_url = 'http://api.open-notify.org/astros.json'
     logger.info("Starting JSON fetch demonstration...")
-    fetch_json_file(fetched_folder_name, "calabasas.json", json_url)
+    fetch_json_file(fetched_folder_name, "astros.json", json_url)
 
 #####################################
 # Conditional Execution
